@@ -92,7 +92,7 @@ google-generativeai>=0.7.0
 | Component | Details |
 |---|---|
 | Frontend | Streamlit |
-| LLM | Google Gemini (`gemini-1.5-flash`) |
+| LLM | Google Gemini (`gemini-2.5-flash-lite`) |
 | API Client | `google-generativeai` Python SDK |
 | Database | SQLite via Python `sqlite3` |
 | Styling | Custom CSS (dark theme, Google Fonts) |
